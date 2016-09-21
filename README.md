@@ -3,7 +3,7 @@
 
 ## What is this?
 
-* A Liferay Portlet created using Spring MVC
+* A Liferay Portlet project created using Spring MVC
 * The portlet contain a form that le you add arbitrary data into the application SESSION
 
 ## Why you may need it?
