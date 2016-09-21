@@ -9,5 +9,6 @@
 ## Why you may need it?
 
 * If you need example of how to use Spring MVC to create Liveray Portlets
-* If you you want to test the session replication capability of the Liferay Buildpack
+* If you you want to test the session replication capability of the Liferay Buildpack [Liferay Buildpack][]
 
+[Liferay Buildpack]: https://github.com/schabiyo/java-liferay-buildpack
